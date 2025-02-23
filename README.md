@@ -1,13 +1,3 @@
-#Prioritising Strategies to Improve Girls’ Access to Quality Education: A Hybrid Hyperbolic Fuzzy MCDM Framework with Human and AI Expertise
-
-Description:
-This dataset contains raw data used in the study, including human and AI expert evaluations. The files having "_sc" in their file name represents the strategies versus criteria information, whereas the files having "_cc" in their name represents the criteria cluster memebership information. The files starting with "A" are those that were collected from the generative AI.
-Here are the prompt histories used to collect the data from the respective generative AI:
-GPT-4o - 
-Gemini Flash 2.0 - 
-Grok 3 - 
-DeepSeek R1 - Share feature unavailable, therefore the HTML along with CSS files of the prompt page is provided as "DeepSeek - Into the Unknown.html" file and "DeepSeek - Into the Unknown" folder.
-
 # Prioritising Strategies to Improve Girls’ Access to Quality Education
 
 ## A Hybrid Hyperbolic Fuzzy MCDM Framework with Human and AI Expertise
