@@ -14,6 +14,7 @@ Below are the prompt histories used to collect data from various generative AI m
 
 - **GPT-4o**: [View Prompt History](https://chatgpt.com/share/67bb20f9-4c40-8010-bc4f-585ed5968f7b)
 - **Gemini Flash 2.0**: [View Prompt History](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2211fozVm0Y90OfhKNaC1qfKlZnGsXcxjyD%22%5D,%22action%22:%22open%22,%22userId%22:%22115850179925212117005%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+  *Note: To access Aistudio, signing in to Google and allowing access to Google Drive is required before accessing the shared prompt.*
 - **Grok 3**: [View Prompt History](https://grok.com/share/bGVnYWN5_91bd1718-077f-45bc-bea4-6356e6b230b3)
 - **DeepSeek R1**: Share feature unavailable. The HTML and CSS files of the prompt page are provided in:
   - `DeepSeek - Into the Unknown.html`
